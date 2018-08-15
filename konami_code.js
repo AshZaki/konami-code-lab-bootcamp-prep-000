@@ -12,10 +12,10 @@ const codes = [
 ];
 
 
-function init(e) {
+function init() {
   let index = 0;
   
-  // function onKeyDownHandler(e) {
+  function onKeyDownHandler(e) {
     const key = e.key;
    
     if (key === codes[index]) {
@@ -29,5 +29,5 @@ function init(e) {
     } else {
       index = 0;
     }
-  // }
+  }
 }
