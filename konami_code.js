@@ -22,7 +22,7 @@ function init() {
       index++;
    
       if (index === codes.length) {
-        alert("YAYYYY!!");
+        alert("You did it!");
    
         index = 0;
       }
