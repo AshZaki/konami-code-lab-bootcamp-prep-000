@@ -31,5 +31,6 @@ function init() {
       index = 0;
     }
   }
+  document.querySelector
 }
 
