@@ -12,7 +12,7 @@ const codes = [
 ];
 
 
-function init() {
+function init(e) {
   let index = 0;
   
   // function onKeyDownHandler(e) {
