@@ -13,7 +13,6 @@ const codes = [
 
 
 function init() {
-  console.log('test')
   let index = 0;
   
   function onKeyDownHandler(e) {
